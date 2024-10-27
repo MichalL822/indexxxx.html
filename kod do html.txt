@@ -1,0 +1,150 @@
+   <IMG SRC="ścieżka_do_pliku" ALIGN=umiejscowienie BORDER=szerokość_obramowania WIDTH=x
+  <html lang="pl-PL">
+   <html>
+    <head>
+     <meta charset="utf-8">
+     <title> Michał Laskowski </title>
+ </head>
+<body>
+Michał Laskowski
+<p align="left"> <font color="blue" size="7" face="Arial"> Michał </font> </p> <br>
+<p align="left"> <font color="blue" size="6" face="Arial"> Michał </font> </p> <br>
+<p align="left"> <font color="blue" size="5" face="Arial"> Michał </font> </p> <br>
+<p align="left"> <font color="blue" size="4" face="Arial"> Michał </font> </p> <br>
+<p align="left"> <font color="blue" size="3" face="Arial"> Michał </font> </p> <br>
+<p align="left"> <font color="blue" size="2" face="Arial"> Michał </font> </p> <br>
+<p align="left"> <font color="blue" size="1" face="Arial"> Michał </font> </p> <br>
+<h3> Laskowski </h3><br>
+<h1> Laskowski </h1><br>
+<h1> Laskowski </h1><br>
+<h1> Laskowski </h1><br>
+<h1> Laskowski </h1><br>
+<h1> Laskowski20:03 26.09.2024 </h1><br>
+<p align="left"> <font color="purple" size="1" face="Arial"> :) + Zadowolenie </font> </p> <br>
+<p align="right"> <font color="blue" size="2" face="Arial"> :D + Szczęście </font> </p> <br>
+<p align="center"> <font color="green" size="3" face="Arial"> :| + Brak emocji </font> </p> <br>
+<p align="right"> <font color="yellow" size="4" face="Arial"> >:) + Zadowolenie </font> </p> <br>
+<p align="center"> <font color="red" size="5" face="Arial"> >:( + Złość </font> </p> <br>
+<p align="left"> <font color="orange" size="6" face="Arial"> :# + Zamykanie ust  </font> </p> <br>
+<FIELDSET>
+<p align="left"> <b>adres:80-257</b>,Gdańsk,<u> Słowackiego </u> <strike>,45,41</strike> </p> <br> 
+<p align="center"> <font color="blue" size="5" face="Arrival"> Ulubiony aktor: Chris Evans </font> </p> <br>.&nbsp
+<p align="center"> <font color="black" size="3" face="New Roman"> ulubiony zespół muzyczny:<font  color="blue" size=5 face=Arial>White House</font> </p>  
+&nbsp
+<p align="center"> <font color="purple" size="5" face="Arial"> Data urodzenia: 25_nie_styczeń_ 2004</font> </p> <br>
+&nbsp
+<p align="left"> <font color="black" size="4" face="Arial">H<sub>2</sub>O<sub>2</sub></font> </p> <br>
+<p align="left"> <font color="black" size="4" face="Arial">x*x=x<sup>2</sup></font> </p> <br>
+<FIELDSET/> 
+           <IMG SRC="39" ALIGN=129 BORDER=109 WIDTH=grafika1-Laskowski
+HEIGHT=y ALT=„tekst”>
+<HR SIZE=6 WIDTH=30% ALIGN=center COLOR=blue>
+<HR SIZE=8 WIDTH=100 ALIGN=left NOSHADE>
+<FIELDSET style="background-color:yellow">
+<H6 ALIGN=right> Żart o budowie. </H6>
+            <IMG SRC="16" ALIGN=106 BORDER=109 WIDTH=grafika2-Laskowski
+HEIGHT=y ALT=„tekst”>
+ <legend>Na budowie.</legend>
+ Panie majster łopata mi się połamała! <br />
+ To oprzyj się o betoniarkę. <br />
+</fieldset>
+<HR SIZE=8 WIDTH=80% ALIGN=LEFT COLOR=purple>
+<HR SIZE=10 WIDTH=100 ALIGN=CENTER NOSHADE>
+<FIELDSET style="background-color:gray">
+<H3 ALIGN=center> Żart o pracy. </H3>
+<fieldset>
+        <IMG SRC="19" ALIGN=109 BORDER=129 WIDTH=grafika3-Laskowski
+HEIGHT=y ALT=„tekst”>
+<HR SIZE=4 WIDTH=20% ALIGN=right COLOR=red>
+       <IMG SRC="19" ALIGN=109 BORDER=106 WIDTH=grafika4-Laskowski
+HEIGHT=y ALT=„tekst”>
+<HR SIZE=6 WIDTH=100 ALIGN=CENTER NOSHADE>
+ <legend>O Pracy.</legend>
+ Jak mogłeś dopuścić, aby ten wiezień ukradł ci klucz!? <br />
+ On go wcale nie ukradł, tylko uczciwie wygrał w karty. <br />
+</fieldset>
+<FIELDSET style="background-color:blue">
+        <IMG SRC="16" ALIGN=106 BORDER=106 WIDTH=grafika5-Laskowski
+HEIGHT=y ALT=„tekst”>
+<H1 ALIGN=left> Żart o szkole. </H1>
+<fieldset>
+ <legend> O szkole.</legend>
+ Dla czego szkoła jest jak rolka papieru? <br />
+ bo jest szara do dupy i nigdy się nie kończy. <br />
+</fieldset>
+<fieldset>
+<!- znak "/" oznacza zawsze koniec pewnej części dokumentu, koniec rozkazu->
+<.- znak "/" oznacza zawsze koniec zdania->
+<?- znak "/" oznacza zawsze koniec pytanie w zdaniu->
+<body bgcolor="silver">treść strony></body>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="description" content="Opis zachęcający i zawierający słowa kluczowe." />
+<meta name="generator" content="Visual web developer" />
+<meta name="keywords" content="Słowa kluczowe oddzielone przecinkami" />
+<meta http-equiv="content-language" content="pl" />
+<meta name="author" content="Autor strony" />
+<title>Tytuł strony jest wymagany w standardach HTML</title>
+</head>
+<body>
+</body>
+</html>
+&#164;&#169;&#174;&#184;&#162;&#38;&#171;
+<ul>&nbsp;imię&nbsp;&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;nazwisko&nbsp;</ul>
+ <ul>Michał&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;Laskowski&nbsp;</ul>
+<UL TYPE=square> 
+<LI> <s>Przekreślenie: </s> < strike> < /strike >
+<LI> <b> Pogrubienie: </b> < b > < /b >
+<LI> <u> Podkreślenie: </u> < u > < /u >
+ </UL> </font>
+<br><br><br>
+<h2> Poniżej są trzy numerowania z różnymi znakami numerowania </h2>
+<h2> Ty zaproponuj swoje, związane z informatyką </h2>
+<p align="left"> <font color="aqua" size="6" face="Arial"> Producenci procesorów: </p>
+<OL TYPE=1 START=2> 
+<LI> Intel
+<LI> Fujitsu
+<LI> AMD
+ </OL>
+<p align="left"> <font color="red" size="6" face="Arial"> Rodzaje programów do pisania skryptów: </p>
+<OL TYPE=a START=b> 
+<LI> Python
+<LI> C++
+<LI> Java
+ </OL>
+<p align="left"> <font color="blue" size="6" face="Arial"> Najpopularniejsze myszki do grania to: </p>
+<OL TYPE=I START=II> 
+<LI> SteelSeries Rival 5
+<LI> Logitech G502 Hero High Performance
+<LI> A4tech Bloody Blazing A60
+<LI> Razer Basilisk Ultimate
+ </OL> </font> </font> </font>
+<br><br><br>
+<h3> poniżej będą trzy poziomy numerowania/wyliczenia z różnymi rodzajami numerowania/wyliczenia</h3>
+<h3> Ty zaproponuj swoje, związane z informatyką</h3>
+<OL> 
+<LI> Urządzenia wewnętrzne komputera
+<OL type=A> 
+<LI> Płyta główna
+<LI> Procesor
+<LI> Zasilacz
+</OL>
+<LI> Urządzenia zewnętrzne komputera
+<OL type=A> 
+<LI> klawiatura
+<OL type=a>
+<LI> głośnik
+<LI> mysz
+</OL>
+<LI> Monitor
+<OL type=a>
+<LI> CRT
+<LI> LCD
+<LI> TN
+</OL>
+</OL>
+</OL>
+
+
+
